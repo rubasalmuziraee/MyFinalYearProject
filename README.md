@@ -3,7 +3,7 @@
 ## Overview of The Proposed Methodology
 In this project, we developed a **Face Detection System** using **Machine Learning (ML)** techniques that can accurately determine whether human faces appear in images. Our primary goal was to achieve high accuracy in face detection by utilizing pre-trained classifiers and machine learning software libraries.
 
-![Overview of The Proposed Methodology](images/Overview%20of%20The%20Proposed%20Methodology.jpg)
+![Overview of The Proposed Methodology](images/Overview%20of%20The%20Proposed%20Methodology.png)
 
 ## Why Machine Learning (ML)?
 Machine learning is a branch of artificial intelligence that teaches computers to learn from data. It involves developing algorithms that detect patterns and make predictions. For face detection, we used **Haar Cascade** algorithm to analyze and separate faces from all other features present in an image.
@@ -39,12 +39,12 @@ We successfully achieved the project goals:
 ### Face Detection - Before Detection
 Here is an example of an image before face detection:
 
-![Before Detection](images/before.jpg)
+![Before Detection](images/before.png)
 
 ### Face Detection - After Detection
 Here is an example of an image after face detection:
 
-![After Detection](images/after.jpg)
+![After Detection](images/after.png)
 
 ## Conclusion
 The project successfully demonstrated the ability to detect faces with high accuracy using **Machine Learning (ML)** techniques. By utilizing **Haar Cascade Classifiers** and **OpenCV**, we were able to separate faces from other elements in images and apply the technique to various cases.
